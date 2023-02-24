@@ -1,0 +1,22 @@
+.container {
+    max-width: 36 rem;
+    padding: 0 1rem;
+    margin: 3rem auto rem;
+}
+
+.header {
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+}
+
+.backToHome {
+    margin: 3rem 0 0;
+}
+
+.navBar {
+    list-style-type: none;
+    display:inline;
+    flex-direction: horizontal;
+    align-items:center;
+}
